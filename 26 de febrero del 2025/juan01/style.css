@@ -1,0 +1,15 @@
+
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    text-align: center;
+}
+.section{ 
+    width: 300px;
+    height: 300px;
+    border: 1px solid black;
+    box-shadow: 3px 2px 5px black;
+    text-align: center;
+    margin: 14px;
+}
